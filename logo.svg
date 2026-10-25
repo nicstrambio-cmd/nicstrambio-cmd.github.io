@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="Work Timetable Agent calendar mark">
+<rect width="120" height="120" rx="26" fill="#153748"/>
+<rect x="25" y="29" width="70" height="69" rx="10" fill="#f6f7f3"/>
+<path d="M25 48H95" stroke="#153748" stroke-width="6"/>
+<path d="M42 23V36M78 23V36" stroke="#f6f7f3" stroke-width="7" stroke-linecap="round"/>
+<path d="M39 71L53 84L80 59" fill="none" stroke="#087f79" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
